@@ -1,6 +1,7 @@
 {
     "name": "jackoffice/hello",
     "description": "jack office 's hello world",
+    "license": "MIT",
     "authors": [
         {
             "name": "jack",
